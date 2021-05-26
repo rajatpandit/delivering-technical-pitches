@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Learning Technical Pitches'
+project = 'Delivering Technical Pitches'
 copyright = '2021, Rajat Pandit'
 author = 'Rajat Pandit'
 
