@@ -1,4 +1,5 @@
 # Delivering Technical Pitches
+WIP  [https://rajatpandit.com/delivering-technical-pitches/](https://rajatpandit.com/delivering-technical-pitches/)
 
 Running a pre-sales team means a lot of time spent in coaching the customer engineering team in presenting the proposition to potential customers. Over the years I have seen them being done very well and some not so well. This is an attempt opensource and document some ideas to keep in mind as you work and sharpen your pitches - having said that this also has a lot of commonality with delivering an idea, story telling - making for a retable feedback.
 
