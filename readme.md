@@ -1,3 +1,5 @@
+![Delivering Technical Pitches - Lessons from the trenches](source/_static/logo.png)
+
 [[https://github.com/rajatpandit/delivering-technical-pitches/blob/master/source/_static/logo.png|alt=Delivering Technical Pitches - Lessons from the trenches]]
 
 # Delivering Technical Pitches
