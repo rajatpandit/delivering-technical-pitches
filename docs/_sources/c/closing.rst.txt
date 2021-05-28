@@ -1,2 +1,2 @@
-Closing your pitch
+Closing Your Pitch
 ===================

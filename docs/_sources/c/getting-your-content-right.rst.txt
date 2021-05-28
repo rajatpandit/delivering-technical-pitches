@@ -1,2 +1,2 @@
-Getting your content right
+Getting Your Content Right
 ===========================

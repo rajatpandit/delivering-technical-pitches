@@ -14,10 +14,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table of content
+
 
    c/preface
-   c/getting-the-basics-right
+   c/getting-the-basics
    c/preparing-for-the-pitch
    c/getting-your-content-right
    c/opening-your-presentation

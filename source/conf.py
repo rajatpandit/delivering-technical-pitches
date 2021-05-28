@@ -61,12 +61,14 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 html_theme_options = {
     'logo': 'logo.png',
+    'logo_name': 'false',
     'github_user': 'rajatpandit',
     'github_repo': 'delivering-technical-pitches',
     'github_banner': 'true',
     'github_button': 'true',
     'description': 'Lessons from the trenches',
     'show_powered_by': 'false',
+    'sidebar_collapse': 'true',
     'show_relbars': 'true',
     # 'donate_url': 'https://rajatpandit.com/'
 }
@@ -74,9 +76,9 @@ html_theme_options = {
 html_sidebars = {
     '**': [
         'about.html',
+        'searchbox.html',
         'navigation.html',
         'relations.html',
-        'searchbox.html',
         'donate.html',
     ]
 }

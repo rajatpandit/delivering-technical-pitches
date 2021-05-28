@@ -1,2 +1,2 @@
-Bonus: 10x thinking
+Bonus: 10x Thinking
 ===================
