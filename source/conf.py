@@ -32,7 +32,9 @@ release = '0.0.1'
 # ones.
 extensions = [
     'myst_parser',
-    'sphinx.ext.githubpages'
+    'sphinx.ext.githubpages',
+    'sphinx.ext.autodoc',
+    'rst2pdf.pdfbuilder'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -55,3 +57,23 @@ html_theme = 'alabaster'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_theme_options = {
+    'logo': 'logo.png',
+    'github_user': 'rajatpandit',
+    'github_repo': 'delivering-technical-pitches',
+    'github_banner': 'true',
+    'github_button': 'true',
+    'description': 'Lessons from the trenches',
+    'show_powered_by': 'false',
+    'show_relbars': 'true',
+}
+
+html_sidebars = {
+    '**': [
+        'about.html',
+        'navigation.html',
+        'relations.html',
+        'searchbox.html',
+        'donate.html',
+    ]
+}
