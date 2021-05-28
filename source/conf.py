@@ -34,7 +34,9 @@ extensions = [
     'myst_parser',
     'sphinx.ext.githubpages',
     'sphinx.ext.autodoc',
-    'rst2pdf.pdfbuilder'
+    'rst2pdf.pdfbuilder',
+    'sphinxext.opengraph',
+
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -66,6 +68,7 @@ html_theme_options = {
     'description': 'Lessons from the trenches',
     'show_powered_by': 'false',
     'show_relbars': 'true',
+    # 'donate_url': 'https://rajatpandit.com/'
 }
 
 html_sidebars = {
