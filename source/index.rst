@@ -18,7 +18,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
    c/preface
    c/getting-the-basics-right
-   c/preparing-for-pitch
+   c/preparing-for-the-pitch
    c/getting-your-content-right
    c/opening-your-presentation
    c/engaging-your-audience
