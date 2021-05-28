@@ -1,7 +1,7 @@
 Delivering Technical Pitches
 =============================
 
-.. image:: _static/the-conference-3248255_640.jpg
+.. image:: /_static/the-conference-3248255_640.jpg
    :alt: Delivering Technical Pitches
 
 I have been in software engineering roles for nearly `two decades <https://www.linkedin.com/in/rajatpandit/>`_ and counting. Often - in the role, I would come across an idea that could be game-changing for the business, a new way to look at the problem, or a great opportunity. To do anything that required more than my own sweat equity in an organization, it took getting greater buy-in from a wider set of stakeholders. I have had my fair share of opportunities and will perhaps continue to have them - and over the years I also had a fair share of success and failures to get the support of these internal stakeholders

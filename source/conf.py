@@ -82,6 +82,7 @@ html_sidebars = {
     ]
 }
 
+html_baseurl = "https://rajatpandit.com/delivering-technical-pitches/"
 ogp_site_url = "https://rajatpandit.com/delivering-technical-pitches/"
 ogp_image = "https://rajatpandit.com/delivering-technical-pitches/_static/logo.png"
 ogp_description_length = 300
