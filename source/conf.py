@@ -36,7 +36,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'rst2pdf.pdfbuilder',
     'sphinxext.opengraph',
-
 ]
 
 # Add any paths that contain templates here, relative to this directory.

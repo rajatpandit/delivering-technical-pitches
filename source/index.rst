@@ -1,17 +1,17 @@
-.. meta:
-    :property=og:type: Article
-    :property=og:image: dummy
-    :property=og:description: Delivering technical pitches - background
+.. meta::
+    :property=og:image: _images/the-conference-3248255_640.jpg
+    :property=og:description: Delivering technical pitches - The Background
     :property=twitter:card: summary
-    :property=twitter:image: dummy
+    :property=twitter:image: _images/the-conference-3248255_640.jpg
     :property=twitter:site: @rajatpandit
 
 Delivering Technical Pitches
 =============================
 
 .. image:: _static/the-conference-3248255_640.jpg
-   :alt: Presentation
-   
+   :alt: Delivering Technical Pitches
+  
+
 I have been in software engineering roles for nearly `two decades <https://www.linkedin.com/in/rajatpandit/>`_ and counting. Often - in the role, I would come across an idea that could be game-changing for the business, a new way to look at the problem, or a great opportunity. To do anything that required more than my own sweat equity in an organization, it took getting greater buy-in from a wider set of stakeholders. I have had my fair share of opportunities and will perhaps continue to have them - and over the years I also had a fair share of success and failures to get the support of these internal stakeholders
 
 Incidentally - in my current role in the cloud pre-sales business, there is a similar need to be able to present a technical point of view with different perspectives based audiences with different areas of concerns and focus. Over the year I have had the fine fortune to see several excellent presentations and some god-awful ones too - I wondered if there was some value to be created by documenting my unfair advantage to stop patterns by getting to watch, coach a team, and also learn from some brilliant presentations.
