@@ -1,10 +1,53 @@
 {% extends '!layout.html' %}
 
+{# Nav should appear before content, not after #}
+{%- block content %}
+{%- if theme_fixed_sidebar|lower == 'true' %}
+  <div class="document">
+    {{ sidebar() }}
+    {%- block document %}
+      <div class="documentwrapper">
+      {%- if render_sidebar %}
+        <div class="bodywrapper">
+      {%- endif %}
 
-{% block body %}
-  {{ super() }}
-  {% include 'disqus_thread.html' %}
-{% endblock %}
+          {%- block relbar_top %}
+            {%- if theme_show_relbar_top|tobool %}
+              <div class="related top">
+                &nbsp;
+                {{- rellink_markup () }}
+              </div>
+            {%- endif %}
+          {% endblock %}
+
+          <div class="body" role="main">
+            {% block body %} {% endblock %}
+            {% include 'disqus_thread.html' %}
+          </div>
+
+          {%- block relbar_bottom %}
+            {%- if theme_show_relbar_bottom|tobool %}
+              <div class="related bottom">
+                &nbsp;
+                {{- rellink_markup () }}
+              </div>
+            {%- endif %}
+          {% endblock %}
+
+      {%- if render_sidebar %}
+        </div>
+      {%- endif %}
+      </div>
+    {%- endblock %}
+    <div class="clearer"></div>
+  </div>
+{%- else %}
+{{ super() }}
+{%- endif %}
+{%- endblock %}
+
+
+
 
 {% block footer %}
 {{ super() }}
@@ -18,7 +61,5 @@
 
   gtag('config', 'G-99N3DTSB8Z');
 </script>
+
 {% endblock %}
-
-
-
