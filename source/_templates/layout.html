@@ -1,8 +1,14 @@
 {% extends '!layout.html' %}
 
 
+{% block body %}
+  {{ super() }}
+  {% include 'disqus_thread.html' %}
+{% endblock %}
+
 {% block footer %}
 {{ super() }}
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-99N3DTSB8Z"></script>
 <script>
