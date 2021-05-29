@@ -23,6 +23,7 @@ author = 'Rajat Pandit'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
+fixed_sidebar = True
 
 
 # -- General configuration ---------------------------------------------------
@@ -53,6 +54,7 @@ html_favicon = '_static/favicon.ico'
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
+canonical_url = 'https://rajatpandit.com/delivering-technical-pitches/'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -60,15 +62,15 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 html_theme_options = {
     'logo': 'logo.png',
-    'logo_name': 'false',
+    'logo_name': False,
     'github_user': 'rajatpandit',
     'github_repo': 'delivering-technical-pitches',
-    'github_banner': 'true',
-    'github_button': 'true',
+    'github_banner': True,
+    'github_button': True,
     'description': 'Lessons from the trenches',
-    'show_powered_by': 'false',
-    'sidebar_collapse': 'true',
-    'show_relbars': 'true',
+    'show_powered_by': False,
+    'sidebar_collapse': True,
+    'show_relbars': True,
     # 'donate_url': 'https://rajatpandit.com/'
 }
 
