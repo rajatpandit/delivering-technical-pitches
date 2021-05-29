@@ -74,7 +74,7 @@ html_theme_options = {
     # 'donate_url': 'https://rajatpandit.com/'
 }
 html_css_files = [
-    'css/custom.css',
+    'custom.css',
 ]
 
 html_sidebars = {
