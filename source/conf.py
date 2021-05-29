@@ -95,5 +95,7 @@ ogp_type = "article"
 ogp_use_first_image = True
 
 ogp_custom_meta_tags = [
-    '<meta content="@rajatpandit" property="twitter:site">',
+    '<meta property="twitter:creator" content="@rajatpandit" >'
+    '<meta property="twitter:site" content="@rajatpandit" >',
+    '<meta property="twitter:card" content="summary" >',
 ]

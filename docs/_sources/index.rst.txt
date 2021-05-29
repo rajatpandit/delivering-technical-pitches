@@ -1,6 +1,5 @@
 Delivering Technical Pitches
 =============================
-
 .. image:: /_static/the-conference-3248255_640.jpg
    :alt: Delivering Technical Pitches
 
