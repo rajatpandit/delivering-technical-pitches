@@ -1,5 +1,5 @@
-Getting The Basics
-==================
+Getting The Basics Right
+=========================
 
 .. image:: /_static/hsbc_presentation.jpg
    :alt: Delivering Technical pitches

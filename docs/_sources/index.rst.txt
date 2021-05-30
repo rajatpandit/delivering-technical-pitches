@@ -14,7 +14,7 @@ If you find it useful, have other ideas, comments, feedback etc. don't forget to
 .. toctree::
    :maxdepth: 2
 
-   c/getting-the-basics
+   c/getting-the-basics-right
    c/preparing-for-the-pitch
    c/getting-your-content-right
    c/opening-your-presentation
