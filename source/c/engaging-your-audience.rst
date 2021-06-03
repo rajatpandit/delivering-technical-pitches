@@ -27,9 +27,10 @@ Another way is to start with questions or statistics. And following up with a co
 Aristotelian triptych
 ***************
 A triptych painting is an image with three parts. Aristotelian triptych is a framework to weave a speech. Simply put, this translates to -
-1. Telling the audience what you are going to tell them. 
-2. Talking about it.
-3. Summarizing all that was said.
+
+    - Telling the audience what you are going to tell them.
+    - Talking about it.
+    - Summarizing all that was said.
 This is an effective and time-tested technique to stay in bounds, speak to the point and maintain unwavering engagement.
 
 The Rule of Three
