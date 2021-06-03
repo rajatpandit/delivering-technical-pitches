@@ -31,12 +31,13 @@ A triptych painting is an image with three parts. Aristotelian triptych is a fra
     - Telling the audience what you are going to tell them.
     - Talking about it.
     - Summarizing all that was said.
-This is an effective and time-tested technique to stay in bounds, speak to the point and maintain unwavering engagement.
+This is an effective and time-tested technique to stay within boundaries, speak to the point and maintain unwavering engagement.
 
 The Rule of Three
 ***************
 Those of you who read Julius Caesar at high school might recognize Mark Anthony's "*Friends, Romans, countrymen, lend me your ears!*" Oh Wow! wasn't that engaging! 
-For some reason, using three words, points, ideas or examples is more engaging and memorable than having a long list of points. When presenting technical information. It is always better to talk about not more than three points or ideas at a time. More of these might just bounce over audiences' heads! `Information presented in triads <https://en.wikipedia.org/wiki/Rule_of_three_(writing)>`_ sticks to our heads better than other clusters of points.
+For some reason, using three words, points, ideas or examples is more engaging and memorable than having a long list of points. When presenting technical information. It is always better to talk about not more than three points or ideas at a time. More of these might just bounce over audiences' heads!
+ `Information presented in triads <https://en.wikipedia.org/wiki/Rule_of_three_(writing)>`_ sticks to our heads better than other clusters of points.
 
 
 Hearing the Unsaid
@@ -48,11 +49,12 @@ Hearing the Unsaid
 When making your technical pitches it is very important to deeply listen at the same time. It is important to monitor the audience's reaction, taking cues from them, and adjusting the course of your talk. Doing this ensures the engagement is sustained. It is said, communication is like a game of tennis, you serve and you anticipate and plan the next hit accordingly. One cannot just have a script to the 't'. Rather, one should be ready to use each opportunity to the fullest to win the trust of the audience.
 
 
-Illustrations & gamification
+Illustrations & Gamification
 ***************
 Most of us who belong to the Cloud Industry know of the famous "`Pizza-as-a-Service <https://pkerrison.medium.com/pizza-as-a-service-2-0-5085cd4c365e>`_
 " analogy for understanding cloud service models.
 Making engaging tech talks needs visuals and analogies. They are useful to represent the ideas clearly. Whiteboarding and thinking of good analogies make difficult ideas simple and engaging.
+In addition to analogies and whiteboarding, when presenting to groups, it also helps engage and interact with the audience using gamification, where you simply throw a puzzle or conduct a game modeled around your presentation.
 
 Humour
 ******
