@@ -21,3 +21,4 @@ If you find it useful, have other ideas, comments, feedback etc. don't forget to
    c/engaging-your-audience
    c/closing
    c/bonus-10x-thinking
+   c/credits
