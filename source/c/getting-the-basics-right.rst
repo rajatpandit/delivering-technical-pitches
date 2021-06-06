@@ -1,8 +1,12 @@
 Getting The Basics Right
 =========================
 
-.. image:: /_static/2175.jpeg
-   :alt: Delivering Technical pitches
+.. image:: /_static/felipe-furtado-2zDXqgTzEFE-unsplash.jpg
+   :alt: Getting the basics right
+
+Photo by `Felipe Furtado <https://unsplash.com/@furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/collections/3502336/consulting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
+  
+
   
 As obvious as the following points might sound, it is surprising how many times, I have seen this being totally missed out. Getting these rights set a really strong foundation for the presentation and more importantly help you approach it with so much more confidence and that will naturally show.
 

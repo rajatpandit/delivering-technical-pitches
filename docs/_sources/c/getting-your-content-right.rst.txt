@@ -1,8 +1,10 @@
 Getting Your Content Right
 ===========================
-.. image:: /_static/ballpen-blur.jpeg
+.. image:: /_static/thanzi-thanzeer-dym3_MMlJGI-unsplash.jpg
    :alt: Getting your content right
 
+Photo by `Thanzi Thanzeer <https://unsplash.com/@thanzi7?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
+  
 Share the mental model
 ***********************
 Help your audience build the outline of what you would be covering in your presentation. An overview, a mental model upfront, will help your audience keep track of not only, where you are in the narrative but also stay on top of where the conversation is going.

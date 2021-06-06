@@ -1,8 +1,11 @@
 Preparing For The Pitch
 =======================
 
-.. image:: /_static/pitch-to-the-audience.jpeg
+.. image:: /_static/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg
    :alt: Preparing for the pitch
+
+Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
+  
 
 Research
 ********
