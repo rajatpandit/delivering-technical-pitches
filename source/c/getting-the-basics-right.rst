@@ -4,10 +4,7 @@ Getting The Basics Right
 .. image:: /_static/felipe-furtado-2zDXqgTzEFE-unsplash.jpg
    :alt: Getting the basics right
 
-Photo by `Felipe Furtado <https://unsplash.com/@furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/collections/3502336/consulting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
-  
-
-  
+ 
 As obvious as the following points might sound, it is surprising how many times, I have seen this being totally missed out. Getting these rights set a really strong foundation for the presentation and more importantly help you approach it with so much more confidence and that will naturally show.
 
   Chance favours the prepared mind.
@@ -107,3 +104,6 @@ and the speaker also confirming that. Now imagine the same scenario - but this t
   Imagine how you could now, consider funding other areas of your business - with the increased cash flow due to the impact to the bottom line - this solution can bring to your business 
 
 These are a lot of things to cover in the basics - its perhaps very hard to keep all of them in mind too - but with practice, consistency and more importantly empathy for your audience will encourage you to speak for your audience - not to your audience - to help provide clarity, derisk, re-assure, show profit/value and win a business opportunity for yourself along the way.
+
+
+Photo by `Felipe Furtado <https://unsplash.com/@furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/collections/3502336/consulting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_

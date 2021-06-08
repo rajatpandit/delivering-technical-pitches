@@ -2,9 +2,7 @@ Getting Your Content Right
 ===========================
 .. image:: /_static/thanzi-thanzeer-dym3_MMlJGI-unsplash.jpg
    :alt: Getting your content right
-
-Photo by `Thanzi Thanzeer <https://unsplash.com/@thanzi7?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
-  
+ 
 Share the mental model
 ***********************
 Help your audience build the outline of what you would be covering in your presentation. An overview, a mental model upfront, will help your audience keep track of not only, where you are in the narrative but also stay on top of where the conversation is going.
@@ -69,3 +67,5 @@ As obvious as it sounds - we do sometimes tend to re-use elements of presentatio
 Each individual has a specific focus area, level of understanding of the problem statement, and hence a dimension that they can relate to. 
 
 It's important to focus on the level of detail to fit the audiences - e.g. don’t talk about a technical architecture with a CEO, or talk about marketing trends with a CTO
+
+Photo by `Thanzi Thanzeer <https://unsplash.com/@thanzi7?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_

@@ -4,9 +4,6 @@ Preparing For The Pitch
 .. image:: /_static/daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg
    :alt: Preparing for the pitch
 
-Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
-  
-
 Research
 ********
 Start with the company priorities - especially when engaging with senior leadership - the higher you go the more important it gets. The ability to read the financials of an organization's published material from the investor relations website, quarterly business updates are all great sources to give you an idea of where the company is heading, what its key priorities are, and how you could align with it when positioning your great idea.
@@ -50,3 +47,5 @@ Nothing is worse than doing all this work and realizing, on the day, that the au
 In addition to the alignment - it also helps reduce the amount of effort you need to spend to convey the idea as it's generally something most people would skim through ahead of the presentation.
 
 Having said that - it is safe to assume that there is always a probability that your audience didn't get the opportunity to go through your presentation and might end up surprising you - which is what brings us to the next part - how to prepare your content.
+
+Photo by `Daria Nepriakhina <https://unsplash.com/@epicantus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
