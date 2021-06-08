@@ -3,9 +3,6 @@ Delivering Technical Pitches
 .. image:: /_static/campaign-creators-gMsnXqILjp4-unsplash.jpg
    :alt: Delivering Technical Pitches
 
-Photo by `Campaign Creators <https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/s/photos/presentation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
-  
-
 I have been in software engineering roles for nearly `two decades <https://www.linkedin.com/in/rajatpandit/>`_ and counting. Often - in the role, I would come across an idea that could be game-changing for the business, a new way to look at the problem, or a great opportunity. To do anything that required more than my own sweat equity in an organization, it took getting greater buy-in from a wider set of stakeholders. I have had my fair share of opportunities and will perhaps continue to have them - and over the years I also had a fair share of success and failures to get the support of these internal stakeholders
 
 Incidentally - in my current role in the cloud pre-sales business, there is a similar need to be able to present a technical point of view with different perspectives based audiences with different areas of concerns and focus. Over the year I have had the fine fortune to see several excellent presentations and some god-awful ones too - I wondered if there was some value to be created by documenting my unfair advantage to spot patterns by getting to watch, coach a team, and also learn from some brilliant presentations.
@@ -25,3 +22,5 @@ If you find it useful, have other ideas, comments, feedback etc. don't forget to
    c/closing
    c/bonus-10x-thinking
    c/credits
+
+Photo by `Campaign Creators <https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/s/photos/presentation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
