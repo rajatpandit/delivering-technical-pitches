@@ -4,8 +4,6 @@ Engaging Your Audience
 .. image:: /_static/the-climate-reality-project-Hb6uWq0i4MI-unsplash.jpg
    :alt: Delivering Technical pitches
 
-Photo by `The Climate Reality Project <https://unsplash.com/@climatereality?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
-
 Guest post by `Prasanjit Singh <https://www.linkedin.com/in/prasanjit-singh/>`_
 
 “*Imagine a big explosion as you climb through 3,000 ft. Imagine a plane full of smoke. Imagine an engine going clack, clack, clack. It sounds scary. Well, I had a unique seat that day. I was sitting in 1D.*”
@@ -81,3 +79,6 @@ The Finishing Line
 "*Stay hungry, stay foolish!*". Aren't all of us a fan of that one? What is going to be yours?
 
 In my opinion, a good finish triggers the desired action and stays with the listener as a reminder of what was spoken.
+
+
+Photo by `Alejandro Escamilla <https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_, `Felipe Furtado <https://unsplash.com/@furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/collections/3502336/consulting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
