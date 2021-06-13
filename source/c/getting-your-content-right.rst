@@ -32,10 +32,10 @@ This is the ultimate litmus test. Why should a slide even be part of your narrat
 
 Some good answers would be
 
-  * It's part of and builds on the narrative
-  * Shares a unique perspective, point of view; an industry trend
-  * Provides clarity on a roadmap
-  * Highlights risks and suggests ideas to mitigate them
+* It's part of and builds on the narrative
+* Shares a unique perspective, point of view; an industry trend
+* Provides clarity on a roadmap
+* Highlights risks and suggests ideas to mitigate them
 
 Another good point - so important that it's worth calling out on its own is - how is your approach different?
 
