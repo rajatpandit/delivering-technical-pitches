@@ -21,6 +21,7 @@ As you read the posts and come up with ideas or thoughts, leave them as comments
    c/getting-your-content-right
    c/opening-your-presentation
    c/engaging-your-audience
+   c/pleasing-the-demo-gods
    c/closing
    c/bonus-10x-thinking
    c/credits
