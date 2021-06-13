@@ -46,7 +46,7 @@ Back your stats!
 ****************
 Stats without a context appears as marketing jargon. An overused approach designed to make an impact on the audience. Unfortunately - falling flat when presenting without context behind the research. Especially if the audience is unclear why they should care.
 
-55% of CIOs report that the responsibility of the next level of business growth lies on their shoulders.
+  55% of CIOs report that the responsibility of the next level of business growth lies on their shoulders.
 
 Not quite as impactful to a Pharma CIO - instead let's try saying this differently.
 
