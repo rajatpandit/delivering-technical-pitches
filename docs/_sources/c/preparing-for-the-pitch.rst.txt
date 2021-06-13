@@ -8,7 +8,7 @@ Research
 ********
 Start with the companies priorities. This gets more important the higher up you go with your audience. Do your research. Financials of the organizations, the investor relations website, quarterly business updates are helpful. They give you directional insight, key priorities, and tips to align your idea to position.
 
-Here's a top tip. Senior executives are very aligned with the rest of the leadership and their peers. Start with the published material and do discovery with the wider organization. This will highlight what is top of mind and weed out any inconsistencies
+Here's the top tip. Senior executives are very aligned with the rest of the leadership and their peers. Start with the published material and do discovery with the wider organization. This will highlight what is top of mind and weed out any inconsistencies
    
 Industry Trends
 ***************
