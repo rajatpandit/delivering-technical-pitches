@@ -11,6 +11,8 @@ This eBook is an attempt to capture those ideas and share them with pre-sales, c
 
 As you read the posts and come up with ideas or thoughts, leave them as comments below. If you prefer to contribute to the content, submit a pull request with your ideas as well.
 
+*Disclaimer:* This eBook is based on the experiences and views of mine and the contributors. The content does not represent views of my employeers past or present.
+  
 .. toctree::
    :maxdepth: 2
 
