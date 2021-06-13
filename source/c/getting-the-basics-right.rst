@@ -3,98 +3,102 @@ Getting The Basics Right
 
 .. image:: /_static/felipe-furtado-2zDXqgTzEFE-unsplash.jpg
    :alt: Getting the basics right
+   
+This might be very obvious but not as common as you would expect. A strong foundation - will help build confidence. That confidence will show be visible in your presentation.
 
-As obvious as the following points might sound, it is surprising how many times, I have seen this being totally missed out. Getting these rights set a really strong foundation for the presentation and more importantly help you approach it with so much more confidence and that will naturally show.
-
-  Chance favours the prepared mind.
+   Chance favors the prepared mind.
   
-  *Louis Pasteur, Microbiologist, Chemist and Inventor Lecture, University of Lille (December 7, 1854)*
+   *Louis Pasteur, Microbiologist, Chemist and Inventor Lecture, University of Lille (December 7, 1854)*
   
 Know your why?
 ***************
-Worth starting with the clarity in knowing your audience, their motivations, the key message you want to land, and most importantly why would they care to listen to what you have to say.
+Do you know who your audience is? what their motives are and what is the key message for them. Even more important - why should they care to listen to you.
 
-There was a lot of ground covered in the statement above - let me try and unpack that a bit. Your audience typically would have several conflicting priorities and each one of them would come with its fair share of distractions. Unless you are the only person on the planet who has the answer to their most pressing problem, which is highly unlikely - you will have to make the effort to constantly work on getting and keeping the attention. A meaningful engagement and hence knowing the answers to the questions asked above are going to be key.
+There was a lot of ground covered in the statement above - let me try and unpack that a bit.   It's not unusual for your audience to have several conflicting priorities. These coupled with a fair share of distractions are not uncommon. Unless they are seeking to hear from you on request - you will need to work keeping them engaged. The key to keeping them engaged would be being aware of the questions 
 
 How much time do you have?
 ***************************
-In my coaching conversations - the number of times that has come up is surprisingly high - The time for the entire meeting - is never the entire time for you to present. The presentation itself isn't the meeting. An engagement typically involves, (a late start, technical glitches - since we are all remote - this is 2021 after all), introductions, landing an idea (which is where you present), get feedback, prioritization call, and agreement of next steps - perhaps even owners for them. 
+I discuss this often in my coaching conversations - A key meeting isn't is not about the presentation. A meeting would involve introductions, level setting, landing an idea. This is usually followed by feedback, prioritization, and agreement on the next steps. If you are lucky you would even get some owners for each of them.
 
-If you look at the bigger picture, it is evident - for a meaningful engagement - the time that should be dedicated to delivering a technical presentation should be in the context of everything else that needs to happen. Plan that duration and accordingly tweak the content of the medium you plan on using for the presentation
+Looking at the bigger picture it is evident - for a meaningful engagement - all these need to happen. Planning for the duration and tweak as you go along. 
 
-This part is obviously applicable in the context of a pre-sales engagement and not where you are only delivering a technical presentation in a pre-arranged slot.
-
-.. image:: /_static/alejandro-escamilla-y83Je1OC6Wc-unsplash.jpg
-  :alt: Getting the basics right
+Unless you are the star of the show - and there is a pre-allocated time slot, you would need to stay on top of the delivery plan.
 
 What is your storyline?
 ***********************
-Have a storyline - a story has a start - the big idea, the big opportunity, or an impending threat, what is the cost of inaction? what you are suggesting can happen and change the world for them, save them from the threat or help them be amongst the first to benefit from the opportunity - and then the end - how will you go about implementing this with them should they choose to work with you.
+Have a storyline - a story has a start - the big idea, the big opportunity, or an impending threat, what is the cost of inaction? 
 
-Executives, key decision-makers usually have a lot on their mind - talking to them about an opportunity they can get excited about or a threat that is likely to affect their industry is something that is usually top of mind for them. You have a better chance of getting a buy-in if you can help them understand a clear risk-free approach to either the threat or the opportunity. Additionally, help them set the expectations on how realistic is the suggested approach and if it makes business sense (which is a whole topic in itself). 
+You then reinforce the message providing clarity on how to adopt the idea, de-risk the idea. Keeping it all very simple.
 
-It all comes down to thinking through what your storyline is going to be.
+Executives usually have opportunities and threats top of mind. They are after all responsible for the direction of the organization. Approaching the narrative in line with their thinking will make the conversation relatable. 
 
 Customer Stories - Engage in storytelling
 *****************************************
-Stories are always more interesting than facts. Ask anyone and they will tell you - it's more entertaining to know how a company invented a product, than the feature specifications of the product. Talking about customers just like the audience, who had a problem, just like theirs - what their challenges were, how they approached to solve it, and what value did they get out of it - is you should consider approaching it.
+Stories are always more interesting than facts. After all, we all grew up listening to one. Executives want to know about others in the same boat. They want to know what the challenges were, how they addressed them, and what the outcomes were. 
 
-Invest in spending some time ahead of the presentation to get some more context about a relatable customer story. Take a moment to go into some level of detail with your prospect - That will inspire the art of possible, the opportunity for them, and the confidence that this has been done before and hence can be done for them again. 
+Invest time in getting to know more about related customer stories. Find the details that are fascinating, insightful, challenging, and sometimes plain funny. 
 
-Use the storytelling to convey the impact of your solution, technology, etc., and take your time to tell it.
+Take the time to talk about it in detail. Inspire your audience with the art of possible. Show them the opportunity. Provide them the confidence that this has been achieved before and they can do it too.
+
+Use the storytelling to convey the impact of your solution, technology, etc., and take your time to tell it. 
 
 Back your stats!
 ****************
-Stats without context are merely marketing jargon. It is a very commonly used approach in most presentations with the idea to make an impact on the audience. Unfortunately where presenting stats from research falls short significantly, is where the speaker misses some key opportunities. 
+Stats without a context appears as marketing jargon. An overused approach designed to make an impact on the audience. Unfortunately - falling flat when presenting without context behind the research. Especially if the audience is unclear why they should care.
 
-The first and and the most critical one is around relability. 
+55% of CIOs report that the responsibility of the next level of business growth lies on their shoulders.
 
+Not quite as impactful to a Pharma CIO - instead let's try saying this differently.
 
-  55% of CIOs report that the responsibility of the next level of business growth lies on their shoulders.
+  In the year 2020, the pharma industry was reeling under a massive supply/demand imbalance. We heard from many of your colleagues, CIOs from the top x pharma companies. They told us that they feel the pressure. The pressure to bring technology lead innovations - the ones that will drive growth.
 
+When covering stats - consider three things
+  * Relatability - why should your audience care
+  * Context - When, why, and who participated in the research
+  * Source - to provide credibility
 
-This doesn't have quite as much an impact when speaking to a CIO of a pharma industry like you would if you said something like.
-
-  In the year 2020 when the pharma industry was reeling under a massive supply/demand imbalance, we heard a number of your colleagues, CIOs from the top x pharma companies who told us that they feel the pressure to bring technology lead innovations to drive the next tranche of business growth
-
-
-Stats require three things - relatability (why should your audience care about it), context (when, why, and who were involved to put together the stat), and source attribution (to provide credibility that the research holds value)
 
 Relatable Content?
 *******************
-A technical solution could be horizontal - providing a framework and approach that can pretty much work across any industry. Examples of an excellent database, an extensible data warehouse are all great examples that pretty much each industry needs. 
+Technologists are passionate about technology. The audience though is likely to be passionate about their industry. Instead, want to know how technology will help them in their industry.  This is true especially of executives who have been in their industry for decades. Using industry-specific examples, terminology, and opportunities makes the conversation relatable.
 
-If your stakeholders work across multiple industries - e.g. consultants, technology executives who work in the advisory role, engineering executives who have a wider exposure to the range of industries would appreciate that. For them - they will have the opportunity to understand the art of possible and then apply them in the domain they are working on. Having said that - these presentations are usually helpful in case of building partnership relationships, buy-in for developing eco-systems, etc. 
-
-On the other hand - for the vast majority of technical pitches, I have seen delivered in pre-sales don't seem to exist without a natural affinity to an industry. Executives engaged in these conversations usually have several decades of experience in their specific industry domain. Hence understanding the problems, terminology, opportunities in that space make for a far more relatable conversation. Positioning your idea inline to either of the three in the context of the domain makes a much bigger impact.
+There is another point of view to this. There are instances where your audience works across several industry verticals. This could be a case with consultants, partners. Your idea could be around buy-in for developing partnerships. In such a case it's safe to assume that the art of possibility can be something that will develop in collaboration. Your responsibility is then to cover the capabilities instead. 
 
 Keep the text, images, and colors consistent with your messaging
 ****************************************************************
-We all often leverage content put together by product marketing, internal enablement, external sources to save time. This introduces a subtle but very important challenge on the inconsistencies of tonality, messaging, and focus areas. To top it all, as you speak through it - the content covered adds another dimension to the messaging being conveyed. Keeping the messaging consistent via the various mediums will ensure that your audience follows through with your storyline.
+It's common practice to put together a presentation from material from various sources. These could be from product marketing, internal enablement, and even external sources. We tend to do that to save time. The consequence though is - inconsistent tonality, messaging, and messaging.
+
+This can compound with the way it gets presented as the speaker adds their point of view. 
+
+Images and messaging - language and tonality need consistency. When the elements are in harmony - the impact is a lot bigger
 
 An overview is just that!
 **************************
-All good presentations - attempt to set the expectation of what to expect in the presentation and that is great! But an overview is to do a quick level set in terms of expectations and the opportunity for an early call out in case any minor tweaks to the agenda are required. 
+All good presenters cover an overview. This helps the audience understand the agenda better - and that is great! BUT this is where it should stop. An overview After all is a quick way to set expectations. It is also an opportunity for an early call-out for any minor tweaks to the agenda.
 
-An optimum approach for covering an overview slide is to consider an overview slide, as just that - don’t give away all the details at the overview itself - leave your audience a little bit curious about what’s behind the detail while covering the scope - ideally leave it to just the outcome of what the audience is expecting to achieve. You are more likely to keep them hooked, rather than get the summary upfront and zone out.
+Unfortunately - so many presenters spend way too much time on this. They pretty much give away all the key messages at this point itself.
+
+An ideal approach would be covering the agenda, call out the outcome that you want to drive. Make the rest of the presentation about how you would achieve the outcome instead. This will keep the audience hooked - rather than get the summary upfront and then zone out.
 
 Don't be a slave to your deck
 ******************************
-Often as we assemble slides to put together an idea, build a storyline and think about how we want to unveil the idea - it all falls flat in a meeting where your audience is impatient, and can't sit through your presentation, before they ask questions. Worse off - the line of questioning can be such that it can totally take you off-course. However - a lot of times those conversations have very important clues of what is top of mind for your audience.
+Often you would have a narrative - a storyline and the grand unveiling. This is great, but sometimes your audience can be impatient. They can't wait for you to finish before they start asking questions. Worse off the line of questioning can take you off course. As hard as it sounds, these are vital clues to what the audience has top of mind. 
 
-When this happens, take a moment to gather your thoughts, listen intently to what is being discussed, and think how your content can be made relatable to what is being discussed. If it isn't possible, go off script - engage in a conversation - the presentation after all was just a medium to keep them engaged while having a conversation. These tend to happen more often than we would want - especially where there is a sense of urgency in the org. and  multiple providers have been asked to come and present solutions and hence the audience wants to get to the point.
+When this happens, take a moment to gather your thoughts. Listen. Re-organize where possible, the narrative to align to what is being asked. If that is not a possibility, go off-script. Engage in a conversation instead.  The presentation was after all a mere medium to keep them hooked while you engage in a dialogue. 
 
-It is impactful to feel confident about being able to go off-script - engage, align and address the audience with their concerns and to get there, starts off by not feeling like you need to be a slave to your deck
+There is a lot of merit in engaging with clarity and confidence. It leaves a long-lasting impression of trust. It starts with being an expert in your area and not feeling like you need to be a slave to your deck.
 
 Keep the pace
 *************
-In the world of instant gratification, fast pace information - we are all vying for the hardest to get commodity - attention. A good presentation is one where the pace of information is consistent and ongoing. Some really nice presentations assemble ideas via transitions so that that the audience is part of the building-up process of the narrative.
+We live in a world of instant gratification. In a world where everyone has an access to the information firehose. Your audience expects information delivered at a consistent bite-sized pace. The keyword here is 'consistent'.
 
-If you spend too much time speaking over a text-heavy static slide - the chances are you would have lost the attention to the next notification on your audience's computer or phone.
+Effective presentations make use of transitions to assemble ideas. It makes the audience part of the building up of the narrative. 
+
+Speaking over a text-heavy slide is most likely to result in losing your audience. Worse - don't apologize for the slide for being text-heavy and then summarise instead. At that point, they are more likely to be reading your slide than listening to you.
 
 Don't fill time
 ***************
-Don't spend time reading off the slides, assume the audience can read it - what you are saying should be adding additional points, key insights, perspectives beyond the obvious. 
+Assume your audience can read the slides - in their own time. Don't fill time by doing that. Instead focus on context, insights, stories, perspectives beyond the obvious 
 
 Imagine a slide saying 
 
@@ -102,9 +106,9 @@ Imagine a slide saying
 
 and the speaker also confirming that. Now imagine the same scenario - but this time the speaker says 
 
-  Imagine how you could now, consider funding other areas of your business - with the increased cash flow due to the impact to the bottom line - this solution can bring to your business 
+  Imagine - with this impact to the bottom line, what your opportunities could be. Imagine how you could now pick up project x that you have been delaying due to budget constraints. Think about the top-line impact you could make due to this one decision.
 
-These are a lot of things to cover in the basics - its perhaps very hard to keep all of them in mind too - but with practice, consistency and more importantly empathy for your audience will encourage you to speak for your audience - not to your audience - to help provide clarity, derisk, re-assure, show profit/value and win a business opportunity for yourself along the way.
+We covered quite a bit in this chapter. A lot to keep top of mind. With practice, consistency, and empathy for your audience - it is possible to make an impact. Speak for your audience, not to your audience. Help provide clarity, de-risk, and re-assure. Show profit, value and win a business opportunity for yourself along the way
 
 
-Photos by `Alejandro Escamilla <https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_, `Felipe Furtado <https://unsplash.com/@furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/collections/3502336/consulting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
+Photo by `Alejandro Escamilla <https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_, `Felipe Furtado <https://unsplash.com/@furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/collections/3502336/consulting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_
