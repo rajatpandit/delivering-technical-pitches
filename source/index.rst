@@ -3,13 +3,13 @@ Delivering Technical Pitches
 .. image:: /_static/campaign-creators-gMsnXqILjp4-unsplash.jpg
    :alt: Delivering Technical Pitches
 
-I have worked now in software engineering for about `two decades <https://www.linkedin.com/in/rajatpandit/>`_. During my time, often I would come across ideas that could be game changing for the business or a new approach. For doing anything significant required a buy-in from a wider set of stakeholders. I have had a fair share of success and failures to make them happen.
+I have worked now in software engineering for about `two decades  <https://www.linkedin.com/in/rajatpandit/>`_. During my time, often I would come across ideas that could be game-changing for the business or a new approach. Doing anything significant required buy-in from a wider set of stakeholders. I have had a fair share of success and failures to make them happen.
 
-In my current role in the cloud pre-sales, part of the job is to present a technical point of views. These differ based on the audience - their areas of concern and focus. Over the years I have come across some brilliant presentations and some not to good ones. I often wondered if there was some value in curating these patterns. 
+In my current role in the cloud pre-sales, part of the job is to present a technical point of view. These differ based on the audience - their areas of concern and focus. Over the years I have come across some brilliant presentations and some not too good ones. I often wondered if there was some value in curating these patterns.
 
-This eBook is the attempt to capture those ideas and share with pre-sales, consultants. The hope is that it will help the readers build confidence. Help them sharpen their narrative as they prepare for the next big pitch.
+This eBook is an attempt to capture those ideas and share them with pre-sales, consultants. The hope is that it will help the readers build confidence. Help them sharpen their narrative as they prepare for the next big pitch.
 
-As you read the posts and come up with ideas or thoughts, leave them as comments below. If you prefer to contribute to the content,  submit a pull request with your ideas as well.
+As you read the posts and come up with ideas or thoughts, leave them as comments below. If you prefer to contribute to the content, submit a pull request with your ideas as well.
 
 .. toctree::
    :maxdepth: 2
